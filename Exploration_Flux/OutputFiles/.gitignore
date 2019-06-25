@@ -1,0 +1,11 @@
+# The Jupyter Notebooks in ExplorationBooks/ are written to create output files
+# in the OutputFiles/ directory.  These files do not need to be kept in the
+# repository or pushed to GitHub, so everything in this directory should be
+# ignored by Git, but the directory itself should be tracked.  Unfortunately,
+# Git isn't designed to track empty directories.
+# Hence, this file.
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
