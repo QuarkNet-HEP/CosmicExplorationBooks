@@ -1,0 +1,9 @@
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+### Emacs? ###
+\#*#
+*~
+
+OutputFiles/*
