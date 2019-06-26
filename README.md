@@ -2,7 +2,7 @@
 
 Exploration Books are Jupyter Notebooks designed to teach physics, scientific methods, and introductory programming and data skills using QuarkNet's cosmic ray muon data.  Notebooks are based on the [Cosmic Ray e-Lab](https://www.i2u2.org/elab/cosmic/home/project.jsp) analysis algorithms and incorporate the Python [Parsl parallel-scripting](http://parsl-project.org/) library to illustrate and facilitate the data workflow. 
 
-The Exploration Books are organized into sets that correspond to each of the Cosmic Ray e-Lab studies.  'Exploration_Flux', for example, first steps the user through the five individual scripts of the Flux Study:
+The Exploration Books are organized into sets that correspond to each of the Cosmic Ray e-Lab studies.  '[Exploration_Flux](https://github.com/QuarkNet-HEP/CosmicExplorationBooks/tree/master/Exploration_Flux)', for example, first steps the user through the five individual scripts of the Flux Study:
 
 1_WireDelay_script
 
