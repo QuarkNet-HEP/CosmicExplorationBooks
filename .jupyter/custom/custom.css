@@ -1,4 +1,5 @@
 /* Makes the output of code cells smaller */
 div.output pre {
-    font-size: 9pt;
+    font-size: 3pt;
+		color: red;
 }
