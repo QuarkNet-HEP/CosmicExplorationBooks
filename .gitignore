@@ -11,3 +11,6 @@ OutputFiles/*
 ### Debug files ###
 stderr.txt
 stdout.txt
+
+### Parsl files and directories ###
+runinfo
