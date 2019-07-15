@@ -7,3 +7,7 @@
 *~
 
 OutputFiles/*
+
+### Debug files ###
+stderr.txt
+stdout.txt
